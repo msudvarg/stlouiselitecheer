@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>St. Louis Elite Cheerleading</title>
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+
+
+
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../pg-main.css" media="all" />
+<!--[if IE]>
+<style type="text/css" media="all">.borderitem {border-style:solid;}</style>
+<![endif]-->
+<script type="text/javascript" src="../CSSMenuWriter/cssmw/menu.js"></script>
+
+<style type="text/css" media="all">
+<!--
+@import url("../CSSMenuWriter/cssmw/menu.css");
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-align: left;
+}
+a:link {
+	color: #800000;
+	text-decoration: underline;
+}
+a:visited {
+	color: #369;
+	text-decoration: underline;
+}
+a:hover {
+	color: #396;
+	text-decoration: underline;
+}
+a:active {
+	color: #585B60;
+	text-decoration: underline;
+}
+h1 {
+	font-size: 24px;
+	color: #45444C;
+}
+h2 {
+	font-size: 20px;
+	border-top-color: #1E549C;
+	border-top-style: dotted;
+	color: #45444C;
+}
+h3 {
+	font-size: 16px;
+	color: #45444C;
+}
+h4 {
+	font-size: 12px;
+	color: #45444C;
+}
+h5 {
+	font-size: 10px;
+	text-align: center;
+	color: #45444C;
+}
+h6 {
+	font-size: 8px;
+	color: #45444C;
+	text-align: center;
+}
+-->
+</style>
+<!--[if lte IE 6]>
+<style type="text/css" media="all">
+@import url("CSSMenuWriter/cssmw/menu_ie.css");
+</style>
+<![endif]-->
+
+<style type="text/css" media="all">
+<!--
+@import url("../CSSMenuWriter/cssmw/menu.css");
+-->
+</style>
+<!--[if lte IE 6]>
+<style type="text/css" media="all">
+@import url("CSSMenuWriter/cssmw/menu_ie.css");
+</style>
+<![endif]-->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body bgcolor="#1D549E">
+
+<div id="main">
+	<div id="container">
+		<div id="header"><img src="../images/masthead.jpg" alt="St. Louis Elite Cheerleading" width="778" height="200" /></div>
+		<br class="clearfloat" />
+		<div id="navbar">
+		  <ul class="level-0" id="cssmw">
+		    <li><span><a href="index.html">Home</a></span></li>
+		    <li><span><a href="about-us.htm">About Us</a></span></li>
+		    <li><span><a href="staff.htm">Staff</a></span></li>
+		    <li><span><a href="awards.htm">Awards</a></span></li>
+		    <li><span><a href="class-schedule.htm">Class Schedule</a></span></li>
+		    <li><span><a href="photos.htm">Photos</a></span></li>
+		    <li><span><a href="contact-us.htm">Contact Us</a></span></li>
+		  </ul>
+<script type="text/javascript">if(window.attachEvent) { window.attachEvent("onload", function() { cssmw.intializeMenu('cssmw'); }); } else if(window.addEventListener) { window.addEventListener("load", function() { cssmw.intializeMenu('cssmw'); }, true); }</script>
+	  </div>
+		<br class="clearfloat" />
+		<div id="sidebar">
+         <p>&nbsp;</p>
+      <h6 align="center">Today is:
+        <script type="text/javascript">
+				<!-- Begin
+				var days=new Array(7);
+				days[1]="Monday";
+				days[2]="Tuesday";
+				days[3]="Wednesday";
+				days[4]="Thursday";
+				days[5]="Friday";
+				days[6]="Saturday";
+				days[0]="Sunday";
+				var months=new Array(13);
+				months[1]="January";
+				months[2]="February";
+				months[3]="March";
+				months[4]="April";
+				months[5]="May";
+				months[6]="June";
+				months[7]="July";
+				months[8]="August";
+				months[9]="September";
+				months[10]="October";
+				months[11]="November";
+				months[12]="December";
+				var time=new Date();
+				var ldays=days[time.getDay()];
+				var lmonth=months[time.getMonth() + 1];
+				var date=time.getDate();
+				var year=time.getYear();
+				if (year < 2000)
+				year = year + 1900;
+				document.write(ldays + "," + " " + lmonth + " " + date + "," + " " + year);
+				// End
+				// -->
+				</script>
+        
+        
+      </h6>
+      <table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><!--======================== BEGIN COPYING THE HTML HERE ==========================-->
+            <a href="directions.htm"><img name="directionsagif" src="../directions-gif/directions-agif.gif" width="150" height="100" border="0" id="directionsagif" alt="Click here for DIRECTIONS to St. Louis Elite" /></a>
+         </td>
+        </tr>
+      </table>
+      <!-- TemplateBeginEditable name="sidebar" -->
+      <p>sidebar</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <!-- TemplateEndEditable --></div>
+		<div id="content"><!-- TemplateBeginEditable name="content" -->
+		  <p>content</p>
+		  <p>&nbsp;</p>
+		  <p>&nbsp;</p>
+		<!-- TemplateEndEditable -->
+  </div>
+		<br class="clearfloat" />
+		<div id="footer">
+		  <table width="778" border="0" align="center" cellpadding="12" cellspacing="0">
+		    <tr>
+		      <td width="470" style="color: #FFF"><h5 style="color: #FFF">St. Louis Elite  - Kids World Gymnastics</h5></td>
+		      <td width="284" style="color: #FFF; font-size: 9px;">Website Design by: <a href="http://www.next-step-up.com" target="_blank" style="color:#FFF; text-align: center;">Next-Step-Up Communications</a></td>
+	        </tr>
+	      </table>
+	  </div>
+		<br class="clearfloat" />
+	</div>
+	
+  <br class="clearfloat" />
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3746959-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
